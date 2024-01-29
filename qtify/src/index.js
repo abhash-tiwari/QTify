@@ -34,3 +34,7 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+//chmod +x run_assessment.sh
+//crio-user@abhashhtiwary7610:~/workspace/abhashhtiwary7610-ME_QTIFY$ ./run_assessment.sh 
