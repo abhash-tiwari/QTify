@@ -16,3 +16,6 @@
     color: var(--color-primary);
     cursor: pointer;
 }
+.filterWrapper{
+    margin-top: 15px;
+}
